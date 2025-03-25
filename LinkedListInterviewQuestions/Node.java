@@ -1,4 +1,5 @@
 class Node{
   public int value;
-  public Node node;
+  public Node next;
+  public Node prev;
 }
